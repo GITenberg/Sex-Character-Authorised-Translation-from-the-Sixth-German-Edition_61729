@@ -1,5 +1,8 @@
 _repo: Sex-Character-Authorised-Translation-from-the-Sixth-German-Edition_61729
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61729-h/images/cover.jpg
 creator:
   author:
     agent_name: Weininger, Otto
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46310
     wikipedia: https://en.wikipedia.org/wiki/Otto_Weininger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61729#Sex-Character-Authorised-Translation-from-the-Sixth-German-Edition
 gutenberg_issued: '2020-04-01'
 gutenberg_type: Text
 identifiers:
